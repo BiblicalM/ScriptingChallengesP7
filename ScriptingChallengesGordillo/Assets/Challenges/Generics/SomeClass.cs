@@ -7,12 +7,12 @@ public class SomeClass : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        fgcnhbf
+        
     }
 
     // Update is called once per frame
     void Update()
     {
-        gvhnnvbhjmnm
+        
     }
 }
